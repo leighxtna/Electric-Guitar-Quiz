@@ -4,7 +4,8 @@ Name
 
 Abstract
 
-	This is a quiz detailing information about the electric guitar, including its predecessors, its 	function, and famous musicians.
+	This is a quiz detailing information about the electric guitar, including its predecessors, its
+	function, and famous musicians.
 
 Details
 
