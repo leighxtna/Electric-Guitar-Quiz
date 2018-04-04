@@ -1,0 +1,15 @@
+Name
+
+	Electric Guitar Quiz
+
+Abstract
+
+	This is a quiz detailing information about the electric guitar, including its predecessors, its 	function, and famous musicians.
+
+Details
+
+	Format
+
+		The test shall consist of a series of multiple choice questions with four choices each.
+		The data for the questions will be stored in a text file. The test will be graded based on
+		the number correct answers divided by the number of questions.
